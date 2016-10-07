@@ -1,5 +1,12 @@
 # Smart Helmet for Riders
 
+Yunho Kim, Hangyeol Kim, Sungpum Park, Jinhwan Seo, Sungsoo Son
+
+Capstone Design Project 2016 in Kookmin University
+
+Faculty Mentors : Prof. Hyeokman Kim
+
+
 Motorcycle accidents give serious damage to drivers than car accidents. Also, when drivers ride a motorcycle at night, the sight can be invisible than daytime condition. To solve these problems, we will make a ‘Smart helmet for riders’ to detect hazard things and convey the driver’s status when an accident occur. Raspberry Pi equip on the helmet and ultrasonic sensor, gyroscope sensor, light sensor, switch and two night vision cameras are connected to it. Small display shows rear view to the driver when some vehicles approach closely to the motorcycle and it shows night vision front view in the nighttime. Both image also can control by switch inputs. Raspberry Pi communicates with the mobile device by using TCP/IP communication. It sends an emergency signal and a snapshot, and mobile device sends MMS message to police or phone address which user entered before. Python is main language for build Raspberry Pi system, Java is used for build android application. In conclusion, drivers can drive in the safe condition and save their life from accident while using this smart helmet.
 
 
@@ -23,5 +30,11 @@ Motorcycle accidents give serious damage to drivers than car accidents. Also, wh
 ●	Implement accident detection part with Rocchio Algorithm
 
 Details(Korean) : http://capstone.cs.kookmin.ac.kr/stage-1/team11
+
+## Award
+
+* Second Prize in Capstone Design Project 2016
+
+
 
 
